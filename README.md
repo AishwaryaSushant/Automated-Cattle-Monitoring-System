@@ -13,7 +13,8 @@ Additionally, the system incorporates a module to detect lumpy disease in cattle
 
 ## About Lumpy Disease
 
-Lumpy skin disease is a viral infection that affects cattle, causing fever, nodules on the skin, and can lead to severe health issues or even death. Early detection and treatment are crucial to prevent the spread of the disease to other animals. This system helps in early diagnosis by analyzing images of cattle and identifying symptoms of lumpy skin disease.
+Lumpy skin disease is a viral infection that affects cattle, causing fever, nodules on the skin, and can lead to severe health issues or even death. Early detection and treatment are crucial to prevent the spread of the disease to other animals. This system helps in early diagnosis by analyzing images of cattle and identifying symptoms of lumpy skin disease. 
+![img1056](https://github.com/AishwaryaSushant/Automated-Cattle-Monitoring-System/assets/63956495/cba349d8-f3c7-466f-985b-2e17ca277121)
 
 ## Project Objectives
 
@@ -57,8 +58,6 @@ The main objectives of this project are to:
     - Captures live video feed from the webcam.
     - Uses the YOLO model to detect cows in real-time, displaying bounding boxes around detected cows.
 
-
-
 ## Libraries Used
 
 - [Streamlit](https://streamlit.io/) for building the web application interface.
@@ -68,3 +67,10 @@ The main objectives of this project are to:
 - [Ultralytics YOLO](https://github.com/ultralytics/yolov5) for cow detection.
 - [Roboflow](https://roboflow.com/) for lumpy disease detection.
 - [Matplotlib](https://matplotlib.org/) for plotting in webcam detection.
+
+## User Interface
+![Screenshot (376)](https://github.com/AishwaryaSushant/Automated-Cattle-Monitoring-System/assets/63956495/a0e78b90-8e03-4884-a6ca-ea200c122bc4)
+
+![Screenshot (377)](https://github.com/AishwaryaSushant/Automated-Cattle-Monitoring-System/assets/63956495/0b465154-9b3c-49c4-bbf2-e04d11f3a7d6)
+
+![Screenshot (378)](https://github.com/AishwaryaSushant/Automated-Cattle-Monitoring-System/assets/63956495/4cbce069-dde2-438b-9d24-df59e69e47a4)
