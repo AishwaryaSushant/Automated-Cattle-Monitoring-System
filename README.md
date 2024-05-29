@@ -1,8 +1,3 @@
-# Automated-Cattle-Monitoring-System
-### Here's a more detailed README file with the requested modifications:
-
----
-
 # Automated Cattle Monitoring System
 
 Welcome to the Automated Cattle Monitoring System, an advanced tool designed to assist farmers and veterinarians in monitoring cattle health and detecting lumpy skin disease using state-of-the-art computer vision models. This system integrates YOLO for cow detection and Roboflow for lumpy skin disease detection.
