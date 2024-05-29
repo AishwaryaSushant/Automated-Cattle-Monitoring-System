@@ -14,6 +14,7 @@ Additionally, the system incorporates a module to detect lumpy disease in cattle
 ## About Lumpy Disease
 
 Lumpy skin disease is a viral infection that affects cattle, causing fever, nodules on the skin, and can lead to severe health issues or even death. Early detection and treatment are crucial to prevent the spread of the disease to other animals. This system helps in early diagnosis by analyzing images of cattle and identifying symptoms of lumpy skin disease. 
+
 ![img1056](https://github.com/AishwaryaSushant/Automated-Cattle-Monitoring-System/assets/63956495/cba349d8-f3c7-466f-985b-2e17ca277121)
 
 ## Project Objectives
